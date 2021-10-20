@@ -1,0 +1,24 @@
+body {
+    background-color:#f8f7f9;
+}
+
+h1 {
+    background-color:#4B0082;
+    color:#f8f7f9;
+}
+
+h2 {
+    background-color:#484849;
+    color:#f8f7f9;
+}
+
+main {
+    background-color:#4B0082;
+    color:#f8f7f9;
+}
+
+hr {
+    border:none;
+    height:5px;
+    background:#f8f7f9;
+}
