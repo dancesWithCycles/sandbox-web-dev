@@ -3,3 +3,5 @@
 
 # Links
 [w3 schools](www.w3schools.com)
+
+[html validator](https://validator.w3.org/)
