@@ -1,3 +1,11 @@
+/*id selector*/
+#nick {
+    background-color:pink;
+}
+#address,#phone {
+    background-color:orange;
+}
+
 /*link styles*/
 a:link {
     color:pink;
