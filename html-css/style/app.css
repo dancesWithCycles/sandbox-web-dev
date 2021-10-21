@@ -1,3 +1,16 @@
+a:link {
+    color:pink;
+    text-decoration:none;
+}
+a:visited {
+    color:yellow;
+}
+a:hover {
+    background-color:blue;
+}
+a:active {
+}
+
 body {
     background-color:#f8f7f9;
 }
